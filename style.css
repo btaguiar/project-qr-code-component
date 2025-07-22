@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0%;
+}
+
+body {
+  background-color: #D5E1EF;
+  width: 1440;
+  height: 960;
+}
+
+img {
+  box-sizing: border-box;
+  width: 288px;
+  height: 288px;
+  
+}
+
+#qrbox {
+  box-sizing: border-box;
+  width: 320px;
+  height: 499px;
+  background-color: white;
+  border-radius: 24px;
+  margin: 40 auto;
+}
+
+main {
+  border: solid;
+  width: 288px;
+  height: 131px;
+  padding: 20px;
+  margin-top: 16px;
+
+}
+
+section {
+  box-sizing: border-box;
+  max-width: 288px;
+  max-height: 131px;
+  padding: 16px;
+  border: red solid;
+}
+
+
+
+
+
+
+
+
+

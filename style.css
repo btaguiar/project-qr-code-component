@@ -33,20 +33,13 @@ body {
   width: 1440;
   height: 960;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   height: 100vh; 
   
  
 }
 
-/* flex:auto - no filho  */
-.container {
-  
-  
-  
-  
-}
 
 img {
   box-sizing: border-box;
